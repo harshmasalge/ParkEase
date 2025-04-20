@@ -42,27 +42,5 @@
     "total_slots": 20,
     "type": "Unpaid",
     "available_slots": ["A3", "B2", "C4", "D1", "B4", "D2", "B5"]
-  },
-  {
-    "id": 5,
-    "name": "IIT Gandhinagar Housing Parking",
-    "latitude": 23.2106346,
-    "longitude": 72.6897861,
-    "price": 0,
-    "slots": 4,
-    "total_slots": 27,
-    "type": "Reserved",
-    "available_slots": ["A3", "B2", "C4", "D1"]
-  },
-  {
-    "id": 6,
-    "name": "Academic Block Parking",
-    "latitude": 23.2132165,
-    "longitude": 72.6853471,
-    "price": 30,
-    "slots": 5,
-    "total_slots": 20,
-    "type": "Paid",
-    "available_slots": ["A3", "B2", "C4", "D1", "A5"]
   }
 ]
