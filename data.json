@@ -26,7 +26,7 @@
     "name": "U corridor Parking",
     "latitude": 23.215463,
     "longitude": 72.6854815,
-    "price": 0,
+    "price": 200,
     "slots": 5,
     "total_slots": 25,
     "type": "Paid",
