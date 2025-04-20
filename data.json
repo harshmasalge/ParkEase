@@ -8,7 +8,7 @@
     "slots": 3,
     "total_slots": 15,
     "type": "Paid",
-    "available_slots": ["A1", "A3", "B2", "C4"]
+    "available_slots": ["A1", "A3", "B2", "C4", "A2"]
   },
   {
     "id": 2,
