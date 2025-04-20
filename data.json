@@ -7,7 +7,7 @@
     "price": 0,
     "slots": 3,
     "total_slots": 15,
-    "type": "Unpaid",
+    "type": "Paid",
     "available_slots": ["A3", "B2", "C4"]
   },
   {
@@ -29,7 +29,7 @@
     "price": 0,
     "slots": 5,
     "total_slots": 25,
-    "type": "Unpaid",
+    "type": "Paid",
     "available_slots": ["A3", "B2", "C4", "D1", "E4"]
   },
   {
@@ -40,7 +40,7 @@
     "price": 0,
     "slots": 7,
     "total_slots": 20,
-    "type": "Unpaid",
+    "type": "Paid",
     "available_slots": ["A3", "B2", "C4", "D1", "B4", "D2", "B5"]
   }
 ]
