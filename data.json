@@ -4,7 +4,7 @@
     "name": "Sports Complex Parking",
     "latitude": 23.2113519,
     "longitude": 72.687124,
-    "price": 0,
+    "price": 20,
     "slots": 3,
     "total_slots": 15,
     "type": "Paid",
