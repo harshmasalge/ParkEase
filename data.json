@@ -8,7 +8,7 @@
     "slots": 3,
     "total_slots": 15,
     "type": "Paid",
-    "available_slots": ["A3", "B2", "C4"]
+    "available_slots": ["A1", "A3", "B2", "C4"]
   },
   {
     "id": 2,
@@ -19,7 +19,7 @@
     "slots": 9,
     "total_slots": 23,
     "type": "Paid",
-    "available_slots": ["A3", "B2", "C4", "D1", "D5", "E2", "B5", "D3", "A2"]
+    "available_slots": ["A1", "A3", "B2", "C4", "D1", "D5", "E2", "B5", "D3", "A2"]
   },
   {
     "id": 3,
@@ -30,7 +30,7 @@
     "slots": 5,
     "total_slots": 25,
     "type": "Paid",
-    "available_slots": ["A3", "B2", "C4", "D1", "E4"]
+    "available_slots": ["A1", "A3", "B2", "C4", "D1", "E4"]
   },
   {
     "id": 4,
@@ -41,6 +41,6 @@
     "slots": 7,
     "total_slots": 20,
     "type": "Paid",
-    "available_slots": ["A3", "B2", "C4", "D1", "B4", "D2", "B5"]
+    "available_slots": ["A1", "A3", "B2", "C4", "D1", "B4", "D2", "B5"]
   }
 ]
