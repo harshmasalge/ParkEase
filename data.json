@@ -15,7 +15,7 @@
     "name": "Solar Parking",
     "latitude": 23.212594,
     "longitude": 72.683631,
-    "price": 2,
+    "price": 2000,
     "slots": 5,
     "total_slots": 25,
     "type": "Paid",
